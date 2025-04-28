@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'BookmanC';
+    src: url('BookmanC.eot');
+    src: local('BookmanC'),
+        url('BookmanC.eot?#iefix') format('embedded-opentype'),
+        url('BookmanC.woff2') format('woff2'),
+        url('BookmanC.woff') format('woff'),
+        url('BookmanC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BookmanC';
+    src: url('BookmanC-Italic.eot');
+    src: local('BookmanC Italic'), local('BookmanC-Italic'),
+        url('BookmanC-Italic.eot?#iefix') format('embedded-opentype'),
+        url('BookmanC-Italic.woff2') format('woff2'),
+        url('BookmanC-Italic.woff') format('woff'),
+        url('BookmanC-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BookmanC';
+    src: url('BookmanC-Demi.eot');
+    src: local('ITC Bookman Demi Cyrillic'), local('BookmanC-Demi'),
+        url('BookmanC-Demi.eot?#iefix') format('embedded-opentype'),
+        url('BookmanC-Demi.woff2') format('woff2'),
+        url('BookmanC-Demi.woff') format('woff'),
+        url('BookmanC-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BookmanC';
+    src: url('BookmanC-BoldItalic.eot');
+    src: local('BookmanC Bold Italic'), local('BookmanC-BoldItalic'),
+        url('BookmanC-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BookmanC-BoldItalic.woff2') format('woff2'),
+        url('BookmanC-BoldItalic.woff') format('woff'),
+        url('BookmanC-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'BookmanC';
+    src: url('BookmanC-Bold.eot');
+    src: local('BookmanC Bold'), local('BookmanC-Bold'),
+        url('BookmanC-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BookmanC-Bold.woff2') format('woff2'),
+        url('BookmanC-Bold.woff') format('woff'),
+        url('BookmanC-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Black Italic'), 
+        url('Scala\ Sans\ Pro\ Black\ Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Black'), 
+        url('Scala\ Sans\ Pro\ Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Bold Italic'), 
+        url('Scala\ Sans\ Pro\ Bold\ Italic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Bold'), 
+        url('Scala\ Sans\ Pro\ Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Italic'), 
+        url('Scala\ Sans\ Pro\ Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Regular'), 
+        url('Scala\ Sans\ Pro\ Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Light Italic'), 
+        url('Scala\ Sans\ Pro\ Light\ Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Scala Sans Pro';
+    src: local('Scala Sans Pro Light'), 
+        url('Scala\ Sans\ Pro\ Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src:  local('Mrs Eaves Lining OT'),
+        url('Mrs\ Eaves\ Roman\ Lining.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src:  local('Mrs Eaves OT'),
+        url('Mrs\ Eaves\ OT\ Roman.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src:  local('Mrs Eaves OT Italic'),
+        url('Mrs\ Eaves\ OT\ Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src:  local('Mrs Eaves OT Bold'),
+        url('Mrs\ Eaves\ OT\ Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves OT';
+    src:  local('Mrs Eaves OT Bold Italic'),
+        url('Mrs\ Eaves\ OT\ Bold\ Italic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves All Petite Caps OT';
+    src:  local('Mrs Eaves All Petite Caps OT'),
+        url('Mrs\ Eaves\ Roman\ All\ Petite\ Caps.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves All Small Caps OT';
+    src:  local('Mrs Eaves All Small Caps OT'),
+        url('Mrs\ Eaves\ Roman\ All\ Small\ Caps.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves Petite Caps OT';
+    src:  local('Mrs Eaves Petite Caps OT'),
+        url('Mrs\ Eaves\ Roman\ Petite\ Caps.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Mrs Eaves Small Caps OT';
+    src:  local('Mrs Eaves Small Caps OT'),
+        url('Mrs\ Eaves\ Roman\ Small\ Caps.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
